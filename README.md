@@ -14,7 +14,7 @@ Practica del modulo del HTLM - Launch X LATAM
         <h1>Planetaco desde el 2022</h1>
     </header>
     <section>
-            <img src="../Images/Planetaco.png" alt="logo planetacos"/>
+            <img src="Planetaco.png" alt="logo planetacos"/>
         <h2>Menú</h2>
             <h3>Tacos grandes</h3>
             <p>Todos incluyen nopales y cebollas</p>
